@@ -4,7 +4,7 @@ PCRB is a monthly meetup of Web Developers in and around Placer County, CA. Each
 
 ## The Presenters' Code
 
-(More what you might call guidelines, than actual rules.)
+> More what you might call guidelines, than actual rules.
 
 * Presentations should be 20-40 minutes in length
 * Ruby-related topic are great
