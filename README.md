@@ -17,3 +17,5 @@ Past topics have included:
 * Data mining
 * DevOps tools
 * Programming challenges
+
+If you would like to add your presentation to our archive, fork https://github.com/pcrb/presentations and send a PR.
